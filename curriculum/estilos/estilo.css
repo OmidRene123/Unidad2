@@ -1,0 +1,30 @@
+body{ 
+	background-color: #00E8FF;}
+#Barra a{
+	font-size: 25px;
+	color: #17202A;
+}
+h1{
+	text-align: center;
+	font-size: 40px; 
+	text-decoration: underline;
+    font-family: Bell MT, serif;
+}
+h2{
+	background-color: #FF0017;
+	font-size: 30px; 
+	color: white;
+	font-family: Arial Narrow, serif;
+}
+pre{
+	font-size: 25px; 
+}
+.o1 img{
+	float: left;
+}
+#o2{
+	background-color: #36FF00; 
+}
+a{
+	font-size: 30px;
+}
