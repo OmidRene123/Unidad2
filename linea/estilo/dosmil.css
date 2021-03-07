@@ -1,0 +1,110 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{ background-color: #C39BD3;}
+#hola{
+	background: #F4D03F;
+    margin: auto;
+	font-size: 40px;
+}
+#Barra a{
+	font-size: 25px;
+	color: #17202A;
+}
+#Barra1{
+	background: #9B59B6; 
+	width: 700px;
+	height: 410px;
+	text-align: justify;
+	color: white;
+	margin: auto;
+	font-size: 30px;
+}
+#o1{ font-size: 40px;}
+#Barra2{
+	background: #5DADE2; 
+	width: 700px;
+	height: 390px;
+	text-align: justify;
+	margin: auto;
+	font-size: 30px;
+}
+#o2{ font-size: 40px;}
+#Barra3{
+	background: #117A65; 
+	width: 700px;
+	height: 380px;
+	text-align: justify;
+	color: white;
+	margin: auto;
+	font-size: 30px;
+}
+#o3{ font-size: 40px;}
+#Barra4{
+	background: #F39C12; 
+	width: 700px;
+	height: 390px;
+	text-align: justify;
+	margin: auto;
+	font-size: 30px;
+}
+#o4{ font-size: 35px;}
+#Barra5{
+	background: #B03A2E; 
+	width: 700px;
+	height: 390px;
+	text-align: justify;
+	color: white;
+	margin: auto;
+	font-size: 30px;
+}
+#o5{ font-size: 40px;}
+#hola2{
+	background: #D7DBDD;
+    margin: auto;
+	font-size: 40px;
+}
+#Barra6{
+	background: #1AF21D; 
+	width: 700px;
+	height: 390px;
+	text-align: justify;
+	color: white;
+	margin: auto;
+	font-size: 30px;
+}
+#o6{ font-size: 40px;}
+#Barra7{
+	background: #F9F900; 
+	width: 700px;
+	height: 360px;
+	text-align: justify;
+	margin: auto;
+	font-size: 30px;
+}
+#o7{ font-size: 40px;}
+#hola3{
+	background: #00F5F9;
+    margin: auto;
+	font-size: 40px;
+}
+#Barra8{
+	background: #F93100; 
+	width: 700px;
+	height: 390px;
+	text-align: justify;
+	color: white;
+	margin: auto;
+	font-size: 30px;
+}
+#o8{ font-size: 40px;}
+#Barra9{
+	background: #CACFD2; 
+	width: 700px;
+	height: 390px;
+	text-align: justify;
+	margin: auto;
+	font-size: 30px;
+}
+#o9{ font-size: 40px;}

@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{ background-color: #BFC9CA;}
+#Barra a{
+	font-size: 25px;
+	color: #17202A;
+}
+#o1{
+	font-family: Bell MT, serif;
+	text-align: center; 
+}
+#o2{
+	text-align: center;
+}

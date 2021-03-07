@@ -1,0 +1,72 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{ background-color: #F4D03F}
+#hola{
+	background: #9B59B6;
+	color: white;
+    margin: auto;
+	font-size: 40px;
+}
+#Barra a{
+	font-size: 25px;
+	color: #17202A;
+}
+#Barra1{
+	background: #5499C7; 
+	width: 700px;
+	height: 400px;
+	text-align: justify;
+	color: white;
+	margin: auto;
+	font-size: 30px;
+}
+#o1{ font-size: 40px;}
+#Barra2{
+	background: #58D68D; 
+	width: 700px;
+	height: 400px;
+	text-align: justify;
+	margin: auto;
+	font-size: 25px;
+}
+#o2{ font-size: 40px;}
+#Barra3{
+	background: #E74C3C; 
+	width: 700px;
+	height: 400px;
+	text-align: justify;
+	color: white;
+	margin: auto;
+	font-size: 25px;
+}
+#o3{font-size: 40px;}
+#Barra4{
+	background: #F5B041; 
+	width: 700px;
+	height: 350px;
+	text-align: justify;
+	margin: auto;
+	font-size: 25px;
+}
+#o4{font-size: 40px;}
+#Barra5{
+	background: #28B463; 
+	width: 700px;
+	height: 350px;
+	text-align: justify;
+	color: white;
+	margin: auto;
+	font-size: 25px;
+}
+#o5{font-size: 40px;}
+#Barra6{
+	background: #BFC9CA; 
+	width: 700px;
+	height: 350px;
+	text-align: justify;
+	margin: auto;
+	font-size: 25px;
+}
+#o6{font-size: 40px;}
